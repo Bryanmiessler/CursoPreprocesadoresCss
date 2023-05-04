@@ -35,7 +35,7 @@ main {
   width: 50%;
   padding-top: 50px;
   color: #FFFFFF;
-  background-color: #8841DA;
+  background-color: #da6c41;
 }
 .perfil__avatar {
   display: block;
@@ -60,7 +60,7 @@ main {
   width: 100px;
   height: 40px;
   margin: 15px auto;
-  padding-top: 15px;
+  padding-top: 5px;
   border-radius: 20px;
   text-decoration: none;
   text-align: center;
@@ -121,7 +121,7 @@ main {
   float: left;
   padding-right: 10px;
   font-size: 40px;
-  color: #3f579a;
+  color: #709a3f;
 }
 .ubicacion--perfil h2 {
   text-transform: uppercase;
@@ -177,12 +177,12 @@ main {
 
 .articulo {
   margin-bottom: 75px;
-  border-bottom: 3px solid #8841DA;
+  border-bottom: 3px solid #da6c41;
 }
 .articulo__categoria {
   font-weight: 500;
   font-size: 16px;
-  color: #8841DA;
+  color: #da6c41;
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
 }
